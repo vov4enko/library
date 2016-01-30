@@ -1,6 +1,6 @@
 package ua.npu.project.library;
 
-//Публікація
+//Видання
 
 public class Publication {
 }
