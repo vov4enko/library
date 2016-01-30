@@ -21,7 +21,7 @@ public class Library {
         this.cardIndex = new CardIndex();
     }
     public void AddPublication(Publication publication){
-        cardIndex.addPublication(publication);
+        //cardIndex.addPublication(publication);
 }
 
     public ArrayList<ReadingRoom> getRooms() {
